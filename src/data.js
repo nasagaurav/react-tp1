@@ -1,0 +1,86 @@
+export const users = [
+  {
+    id: 1,
+    name: 'user1',
+    email: 'user1@gmail.com',
+    phone: '099991',
+    password: 'user1',
+  },
+  {
+    id: 2,
+    name: 'user2',
+    email: 'user2@gmail.com',
+    phone: '099992',
+    password: 'user2',
+  },
+  {
+    id: 3,
+    name: 'user3',
+    email: 'user3@gmail.com',
+    phone: '099993',
+    password: 'user3',
+  },
+  {
+    id: 4,
+    name: 'user4',
+    email: 'user4@gmail.com',
+    phone: '099994',
+    password: 'user4',
+  },
+  {
+    id: 5,
+    name: 'user5',
+    email: 'user5@gmail.com',
+    phone: '099995',
+    password: 'user5',
+  },
+  {
+    id: 6,
+    name: 'user6',
+    email: 'user6@gmail.com',
+    phone: '099996',
+    password: 'user6',
+  },
+  {
+    id: 7,
+    name: 'user7',
+    email: 'user7@gmail.com',
+    phone: '099997',
+    password: 'user7',
+  },
+  {
+    id: 8,
+    name: 'user8',
+    email: 'user8@gmail.com',
+    phone: '099998',
+    password: 'user8',
+  },
+  {
+    id: 9,
+    name: 'user9',
+    email: 'user9@gmail.com',
+    phone: '099999',
+    password: 'user9',
+  },
+  {
+    id: 10,
+    name: 'user10',
+    email: 'user10@gmail.com',
+    phone: '0999910',
+    password: 'user10',
+  },
+  {
+    id: 11,
+    name: 'user11',
+    email: 'user11@gmail.com',
+    phone: '0999911',
+    password: 'user11',
+  },
+];
+export const bookings = [];
+export const flights = [
+  { id: 1, source: 'us', destination: 'uk', time: '1 hours', stops: 3 },
+  { id: 2, source: 'bomaby', destination: 'goa', time: '3 hours', stops: 11 },
+  { id: 3, source: 'delhi', destination: 'bombay', time: '5 hours', stops: 20 },
+  { id: 4, source: 'patna', destination: 'kanpur', time: '1 hours', stops: 2 },
+];
